@@ -16,3 +16,6 @@
     width: 100%;
     height: auto;
 }
+.new-photo h1 photo-link{
+    float: left;
+}
