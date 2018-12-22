@@ -1,4 +1,6 @@
-<html lang"ja">
+<!DOCTYPE html>
+<html lang="ja">
+<html>
     <head>
      <meta charset=utf-8">
      <title>sample</title>
